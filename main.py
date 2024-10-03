@@ -15,5 +15,5 @@ fruits = ["Apple", "Banana", "Cherry"]
 st.write(f"My favorite fruits are: {', '.join(fruits)}")
 
 # 5. Adding an Image
-image_url = "C:\Users\hp\OneDrive\Desktop\Python Assignment Live Project\Python-Assignment\camp.jpg"
+image_url = "camp.jpg"
 st.image(image_url, caption="This is an example image")
